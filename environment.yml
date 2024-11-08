@@ -1,0 +1,8 @@
+name: webpage
+channels:
+  - conda-forge
+dependencies:
+  - ablog  # https://ablog.readthedocs.io
+  - sphinx-book-theme  # https://sphinx-book-theme.readthedocs.io
+  - sphinx  # https://www.sphinx-doc.org
+  - sphinx-design  # https://sphinx-design.readthedocs.io
